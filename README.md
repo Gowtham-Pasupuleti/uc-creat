@@ -22,7 +22,14 @@ I have worked on projects like -
  * chatbot
  
  ---
- 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](http://team1p618.tech/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/utkarshchauhan2629)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://www.instagram.com/utkarsh.chauhan__)
+
+---
+---
 <div align="center">
     <br>
     <br>
@@ -53,11 +60,3 @@ I have worked on projects like -
     <p align="center">Click and refresh to change block color</p>
     <br>
 </div>
-
----
----
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](http://team1p618.tech/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/utkarshchauhan2629)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://www.instagram.com/utkarsh.chauhan__)
