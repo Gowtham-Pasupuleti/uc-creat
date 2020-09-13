@@ -23,11 +23,7 @@ I have worked on projects like -
  
  ---
  ---
-[<img align="left" alt="codeSTACKr.com" width="22px" src="http://team1p618.tech/" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src= />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src=>][instagram]
- <div align="center">
-    <br>
+
     <br>
     <a href="https://status.nmoo.dev/blocks/1">
         <img src="https://status.nmoo.dev/blocks/1" width="32" height="32">
