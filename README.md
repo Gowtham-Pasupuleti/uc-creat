@@ -3,13 +3,16 @@
 I am a data enthusiast, who enjoy playing with data. Due to this love towards data, I am interested in concepts which help me playing with data like - 
  * Machine Learning
  * Deep learning
+ ---
 Along with analysing data I am also interested in using data for creating models like -
  * face recogination
  * object detection
  * chatbot
+ ---
 Currently, I am working on various projects like -
  1. Autonomous Car
  1. New credit system
+ ---
 I have worked on projects like - 
  * object detection
  * face recogination
@@ -48,10 +51,4 @@ I have worked on projects like -
     <p align="center">Click and refresh to change block color</p>
     <br>
 </div>
-
----
-
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
-</a>
 
