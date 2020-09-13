@@ -30,7 +30,7 @@ I have worked on projects like -
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  <div align="center">
     <br>
-    
+    <br>
     <a href="https://status.nmoo.dev/blocks/1">
         <img src="https://status.nmoo.dev/blocks/1" width="32" height="32">
     </a>
