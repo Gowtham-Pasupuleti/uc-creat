@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Email](utkarshchauhanutc26@gmail.com)
 
 I am a data enthusiast, who enjoy playing with data. Due to this love towards data, I am interested in concepts which help me playing with data like - 
  * Machine Learning
