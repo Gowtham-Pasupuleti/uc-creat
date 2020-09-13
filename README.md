@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**uc-creat/uc-creat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
-
 # I am a data enthusiast, who enjoy playing with data. Due to this love towards data, I am interested in concepts which help me playing with data like - 
 * Machine Learning
 * Deep learning
