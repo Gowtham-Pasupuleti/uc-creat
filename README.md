@@ -23,7 +23,7 @@ I have worked on projects like -
  
  ---
  ---
- <div align="center>
+<div align="center">
     <br>
     <br>
     <a href="https://status.nmoo.dev/blocks/1">
@@ -53,4 +53,3 @@ I have worked on projects like -
     <p align="center">Click and refresh to change block color</p>
     <br>
 </div>
-
