@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Email](utkarshchauhanutc26@gmail.com)
+
 
 I am a data enthusiast, who enjoy playing with data. Due to this love towards data, I am interested in concepts which help me playing with data like - 
  * Machine Learning
@@ -22,7 +22,7 @@ I have worked on projects like -
  * chatbot
  
  ---
- ---
+ 
 <div align="center">
     <br>
     <br>
@@ -53,3 +53,8 @@ I have worked on projects like -
     <p align="center">Click and refresh to change block color</p>
     <br>
 </div>
+---
+---
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
